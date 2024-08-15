@@ -22,5 +22,5 @@ Physicist (theoretical hadron physics), athtlete, interested human being.
 * Nature, climate justice
 * Books, board games, discussions
 
-<img src="(https://github.com/gluino-h/gluino-h.github.io/blob/master/portrait.jpg)" width="200">
-![portrait](https://github.com/gluino-h/gluino-h.github.io/blob/master/portrait.jpg)
+<img src="https://github.com/gluino-h/gluino-h.github.io/blob/master/portrait.jpg" width="200">
+
